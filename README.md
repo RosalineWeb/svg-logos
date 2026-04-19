@@ -69,9 +69,10 @@ This repository is a storage space for holding basic html encodings of svg image
 
 ## Avatars
 <div>
-  <img src="https://github.com/cgrundman/svg-logos/blob/main/Avatars/professional.png" height=100 />
-  <img src="https://github.com/cgrundman/svg-logos/blob/main/Avatars/relaxed.png" height=100 />
-  <img src="https://github.com/cgrundman/svg-logos/blob/main/Avatars/casual.png" height=100 />
+  <img src="https://images.openai.com/static-rsc-4/K_m2ejwH0SZPCMdGOXp6_cxJISY2IQZoyHuSDGWZoGGzBNMMkvYdSXJJZFsWGK_UzPMvEXpo-rnyOq0Ke-Nrdz-99K618yCOcslp8ER4ybADV9u8N6ZR4O8Rl7zHzrYGFNBziZMPtYvuE0EyCO7B_CA04oxTA1BYmb3ZT3IfjNlMhRdZshELxW1MAfWd4KTJ?purpose=fullsize" height=100 />
+
+  <img src="https://images.openai.com/static-rsc-4/Vj8ZyZX0WVsBnpoZlmvsi5qiu9QrTzy2i-bv2NBPyMUZHrtgA7-eEfeNz6AczpxCWpXwYGqIUTccbMdjd4Zm3Aa68Eh4twZ6BVY0Y31UheaNRYVPkJ4EVxo-EWKlfugmvaw4WXm3CD8oRfZUvq9j5Oh_MYXDgq_UyKv11p471qaE1h0Mlia5g38u8wTzM62b?purpose=fullsize" height=100 />
+  <img src="https://images.openai.com/static-rsc-4/7l1U-_hluHq0ujdE9H399lP1YQOTbf1uSJ2SQ-sgVj2v4pxviQlWTtB1V1gUhDdqBDXN3QhiS7n2WR3xmtP0fe6KmKAXDcbeZ5kp_tDP5OVW-ao3o2T2fhPNXG0nkUeel08TK2e4I_Ccr5krGv8fWrOqCQ3MQkz2tMMx7E6VZ4mA3A7FaUY148GKf2i050Au?purpose=fullsize" height=100 />
 </div>
 
 ##### Special thanks to [Avataaars Generator](https://getavataaars.com/)
